@@ -1,6 +1,8 @@
 # demo-microservice-app
 
-A simple demo Microservice Architecture application.
+A simple blog demo Microservice Architecture application.
+
+![app-demo](./client/public/app-demo.png)
 
 ## Overview
 
@@ -40,6 +42,7 @@ Once each of the Services has been launched, visit `localhost:3000` in your web 
 - [Create React App](https://facebook.github.io/create-react-app/)
 - [React](https://reactjs.org/)
 - [Bootstrap](http://getbootstrap.com/)
+- [Axios](https://github.com/axios/axios)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [Docker](https://www.docker.com/)
